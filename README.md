@@ -4,13 +4,6 @@ It's a minimum viable version of a real shell.
 The main goal is to have a good understanding of process creation and
 synchronisation using the C programmming language.
 
-### Requirements
-The only requirements are:
-- GNU make (v3.81)
-- GCC (v4.2.1)
-
-Those versions are the ones used during development.
-
 ## Main Project Instructions
 
 ### Mandatory
